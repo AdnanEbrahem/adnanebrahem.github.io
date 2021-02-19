@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computational Mechanics in the research group of [Prof. Schillinger](https://www.ibnm.uni-hannover.de/de/schillinger/) at the Institute of Mechanics and Computational Mechanics (IBNM) at Leibniz Universität Hannover, Germany. I have a background with M. Sc. in Engineering Science from Technische Universität Berlin specialising in Solid Mechanics and Simulation Based Engineering. I also hold a B. Sc. in Mechanical Engineering from Technische Universität Berlin.
+I am a PhD student in Computational Mechanics in the research group of [Prof. Schillinger](https://www.ibnm.uni-hannover.de/de/schillinger/) at the Institute of Mechanics and Computational Mechanics (IBNM) at Leibniz Universität Hannover, Germany. I have a background with M. Sc. in Engineering Science from Technische Universität Berlin specialised in Solid Mechanics and Simulation Based Engineering. I also hold a B. Sc. in Mechanical Engineering from Technische Universität Berlin.
 
 
 My research interests
