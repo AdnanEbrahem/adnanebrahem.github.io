@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Academic Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Science in Mechanical Engineering, Technische Universität Berlin, 2014-2017
+* Master of Science in Engineering Science, Technische Universität Berlin, 2017-2019
+* Research assistant at IBNM, Leibniz Universität Hannover, June 2019 - current
 
 Work experience
 ======
