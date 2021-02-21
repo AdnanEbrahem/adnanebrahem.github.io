@@ -9,13 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Academic Education
+
+Education
 ======
-* Research assistant at IBNM, Leibniz Universität Hannover, June 2019 - current
-* Master of Science in Engineering Science, Technische Universität Berlin, 2017-2019
-* Master-thesis: Surface haptics: Modeling of an electromechanical frictional contact for the tactile perception between a fingertip and a touchscreen, Adviser: Dr.-Ing. Markus Heß, Prof. Dr. rer. nat. Valentin Popov
-* Bachelor of Science in Mechanical Engineering, Technische Universität Berlin, 2014-2017
-* Bachelor-thesis: Statische und dynamische FE-Berechnungen an einem Prüfstand zur messtechnischen Bestimmung der Eigenfrequenzen und Eigenformen von Turbinenschaufeln, Adviser: Dr. Dragan Marinkovic, Univ.-Prof. Dr.-Ing. habil. Manfred Zehn
+Master of Science in Engineering Science, Technische Universität Berlin, 2017-2019
+* Master-thesis: Surface haptics: Modeling of an electromechanical frictional contact for the tactile perception between a fingertip and a touchscreen
+* Adviser: Dr.-Ing. Markus Heß, Prof. Dr. rer. nat. Valentin Popov
+Bachelor of Science in Mechanical Engineering, Technische Universität Berlin, 2014-2017
+* Bachelor-thesis: Statische und dynamische FE-Berechnungen an einem Prüfstand zur messtechnischen Bestimmung der Eigenfrequenzen und Eigenformen von Turbinenschaufeln *Adviser: Dr. Dragan Marinkovic, Univ.-Prof. Dr.-Ing. habil. Manfred Zehn
+
+Employment
+======
+Research assistant at IBNM, Leibniz Universität Hannover, June 2019 - current
+*Project: Development of methods for the computational modeling of liver regrowth after surgical resection.
+*Sponsors: European Research Council
+*Adviser: Prof. Dr.-Ing. Dominik Schillinger
 
 
 Professional skills
