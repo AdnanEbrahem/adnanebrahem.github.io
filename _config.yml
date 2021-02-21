@@ -84,10 +84,10 @@ author:
   avatar           : "adnan_new.png"
   bio              : "PhD student in Computational Mechanics at Leibniz Universität Hannover, Institute of Mechanics and Computational Mechanics"
   location         : "Hannover, Germany"
-  employer         : "https://www.ibnm.uni-hannover.de/en/"
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "adnan.ebrahem@ibnm.uni-hannover.de"
   researchgate     :  "https://www.researchgate.net/profile/Adnan_Ebrahem"
   uri              :
   bitbucket        :
