@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,15 @@ redirect_from:
 
 Academic Education
 ======
-* Bachelor of Science in Mechanical Engineering, Technische Universität Berlin, 2014-2017
-* Master of Science in Engineering Science, Technische Universität Berlin, 2017-2019
 * Research assistant at IBNM, Leibniz Universität Hannover, June 2019 - current
+* Master of Science in Engineering Science, Technische Universität Berlin, 2017-2019
+* Master-thesis: Surface haptics: Modeling of an electromechanical frictional contact for the tactile perception between a fingertip and a touchscreen, Adviser: Dr.-Ing. Markus Heß, Prof. Dr. rer. nat. Valentin Popov
+* Bachelor of Science in Mechanical Engineering, Technische Universität Berlin, 2014-2017
+* Bachelor-thesis: Statische und dynamische FE-Berechnungen an einem Prüfstand zur messtechnischen Bestimmung der Eigenfrequenzen und Eigenformen von Turbinenschaufeln, Adviser: Dr. Dragan Marinkovic, Univ.-Prof. Dr.-Ing. habil. Manfred Zehn
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Professional skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Computer Languages: Fortran, Julia, MATLAB
+* Tools: Git, LaTeX, Visual Studio, Visual Studio Code, Mathematica, LabVIEW, OpenFOAM, Simpack, Abaqus, Solid Edge, SolidWorks, Gmsh, ANSYS Maxwell
+* Languages: German (native), Kurdish (native), English (fluent), Latin (Latinum)
