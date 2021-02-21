@@ -17,7 +17,8 @@ Education
 * Adviser: Dr.-Ing. Markus Heß, Prof. Dr. rer. nat. Valentin Popov
 
 **Bachelor of Science in Mechanical Engineering, Technische Universität Berlin, 2014-2017**
-* Bachelor-Thesis: Statische und dynamische FE-Berechnungen an einem Prüfstand zur messtechnischen Bestimmung der Eigenfrequenzen und Eigenformen von Turbinenschaufeln *Adviser: Dr. Dragan Marinkovic, Univ.-Prof. Dr.-Ing. habil. Manfred Zehn
+* Bachelor-Thesis: Statische und dynamische FE-Berechnungen an einem Prüfstand zur messtechnischen Bestimmung der Eigenfrequenzen und Eigenformen von Turbinenschaufeln 
+* Adviser: Dr. Dragan Marinkovic, Univ.-Prof. Dr.-Ing. habil. Manfred Zehn
 
 Employment
 ======
