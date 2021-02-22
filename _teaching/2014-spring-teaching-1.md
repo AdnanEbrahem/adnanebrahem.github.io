@@ -3,12 +3,12 @@ title: "Technische Universität Berlin"
 collection: teaching
 type: "Student teaching assistant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Institute of Mechanics"
+venue: "Tutorials"
 date: 2016-01-01
 location: "City, Country"
 ---
 
-blabla.
+Classes offered by the Institute for Mechanics within the Bachelor programs Mechanical Engineering, Civil Engineering and Engineering Science.
 
 Statics and Strength of Materials
 ======
