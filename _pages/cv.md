@@ -22,12 +22,12 @@ Education
 
 Employment
 ======
-**Research assistant at Institute for Mechanics and Computational Mechanics, Leibniz Universität Hannover, June 2019 - current**
+**Research assistant at Institute of Mechanics and Computational Mechanics, Leibniz Universität Hannover, June 2019 - current**
 * Project: Development of methods for the computational modeling of liver regrowth after surgical resection.
 * Sponsors: European Research Council
 * Adviser: Prof. Dr.-Ing. Dominik Schillinger
 
-**Student teaching assistant at Institute for Mechanics, Technische Universität Berlin, 2016 - 2019**
+**Student teaching assistant at Institute of Mechanics, Technische Universität Berlin, 2016 - 2019**
 * Engineering Mechanics (Statics, Strength of Materials, Kinematics and Dynamics) 
 
 
