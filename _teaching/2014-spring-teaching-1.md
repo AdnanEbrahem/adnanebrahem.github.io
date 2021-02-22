@@ -2,7 +2,7 @@
 title: "Technische Universität Berlin"
 collection: teaching
 type: "Student teaching assistant"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-2
 venue: "Tutorials"
 date: "2016-01-01"
 location: "City, Country"
