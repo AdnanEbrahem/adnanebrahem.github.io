@@ -4,7 +4,6 @@ collection: teaching
 type: "Student teaching assistant"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Tutorials"
-date: "2016-2019"
 location: "City, Country"
 ---
 
