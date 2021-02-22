@@ -4,7 +4,7 @@ collection: teaching
 type: "Student teaching assistant"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Institute of Mechanics"
-date: 2016-2019
+date: 2016
 location: "City, Country"
 ---
 
