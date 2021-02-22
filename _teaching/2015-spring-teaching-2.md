@@ -3,12 +3,12 @@ title: "Leibniz Universität Hannover"
 collection: teaching
 type: "Research assistant"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Institute of Mechanics and Computational Mechanics"
+venue: "Exercise and Workshop"
 date: 2019-01-01
 location: "City, Country"
 ---
 
-blablabla.
+Classes offered by the Institute for Mechanics and Computational Mechanics within the Bachelor programs Civil and Environmental Engineering and Computational Engineering.
 
 Engineering Mechanics A
 ======
