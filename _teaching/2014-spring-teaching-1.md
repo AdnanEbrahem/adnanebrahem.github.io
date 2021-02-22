@@ -8,7 +8,7 @@ date: "2016-01-01"
 location: "City, Country"
 ---
 
-Classes offered by the Institute for Mechanics within the Bachelor programs Mechanical Engineering, Civil Engineering and Engineering Science and more study programmes of Engineering.
+Classes offered by the Institute for Mechanics within the Bachelor programs Mechanical Engineering, Civil Engineering, Engineering Science and more study programmes of Engineering.
 
 Statics and Strength of Materials
 ======
