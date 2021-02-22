@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 1"
+title: "Technische Universität Berlin"
 collection: teaching
-type: "Undergraduate course"
+type: "Student teaching assistant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Institute of Mechanics"
+date: 2016-2019
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+blabla.
 
-Heading 1
+Statics and Strength of Materials
 ======
+* Summer semester 2017 (Lectures given by Prof. Dr.-Ing. M. Zehn)
+* Winter semester 2017/2018 (Lectures given by Prof. Dr. rer. nat. W. H. Müller)
 
-Heading 2
+Kinematics and Dynamics
 ======
-
-Heading 3
-======
+* Summer semester 2016 (Lectures given by Prof. Dr. rer. nat. W. H. Müller)
+* Summer semester 2018 (Lectures given by Prof. Dr. rer. nat. W. H. Müller)
+* Winter semester 2018/2019 (Lectures given by Prof. Dr.-Ing. U. von Wagner)
