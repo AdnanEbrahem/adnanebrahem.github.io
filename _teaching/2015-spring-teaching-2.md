@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Leibniz Universität Hannover"
 collection: teaching
-type: "Workshop"
+#type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+#venue: "University 1, Department"
+date: Winter semester 2019/20 and 2020/21
 location: "City, Country"
 ---
 
