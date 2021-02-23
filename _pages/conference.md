@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Education
+Education 1
 ======
 **Master of Science in Engineering Science, Technische Universität Berlin, 2017-2019**
 * Master-Thesis: Surface haptics: Modeling of an electromechanical frictional contact for the tactile perception between a fingertip and a touchscreen
