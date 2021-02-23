@@ -12,7 +12,7 @@ redirect_from:
 
 Modellierung des elektromechanischen Reibkontaktes zwischen Finger und Touchscreen zur gezielten Erzeugung taktiler Effekte
 ======
-* Heß M., **Ebrahem A.**, Popov V.L.: 60th German Tribology Conference, 2019. 
+* Heß M., **Ebrahem A.**, Popov V.L., 60th German Tribology Conference, 2019. 
  
 **Zusammenfassung:**
 Durch taktile Rückmeldung an den Benutzer kann die Leistungsfähigkeit berührungsempfindlicher Touchscreens erheblich gesteigert werden. Trotz umfangreicher experimenteller Untersuchungen sind die zugrunde liegenden Prinzipien bis heute noch nicht ausreichend verstanden und eine verlässliche Modellierung fehlt. Wir stellen ein vielversprechendes Modell für den elektromechanischen Reibkontakt vor, welches unter anderem die bekannten klassischen Theorien der molekularen Adhäsion ausnutzt. 
