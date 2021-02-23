@@ -27,8 +27,7 @@ This website is hosted on [GitHub](https://github.com/) with user contributions 
 
 
 
-Adnan Ebrahem, M. Sc.
-
+Adnan Ebrahem, M. Sc. <br />
 Institute of Mechanics and Computational Mechanics
 
 Appelstraße 9a, 30167 Hannover
