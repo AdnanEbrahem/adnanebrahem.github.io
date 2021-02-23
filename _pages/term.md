@@ -24,9 +24,15 @@ This website is hosted on [GitHub](https://github.com/) with user contributions 
 
 (A note on some formalities required by German law) Diese Seite dient nur persönlichen und nicht-kommerziellen Zwecken und ist nach § 55 Informationspflichten und Informationsrechte des Staatsvertrages für Rundfunk und Telemedien von der Impressumspflicht ausgenommen. Die Inhalte stellen kein journalistisch-redaktionell gestaltetes Angebot dar und zielen weder einer öffentlichen Meinungsbildung noch einer Werbung ab.
 
+
+
+
 Adnan Ebrahem, M. Sc.
----
+
 Institute of Mechanics and Computational Mechanics
+
 Appelstraße 9a, 30167 Hannover
+
 Tel. +49 511 762-14092
+
 adnan.ebrahem@ibnm.uni-hannover.de
