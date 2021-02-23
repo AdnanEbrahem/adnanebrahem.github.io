@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Adnan Ebrahem"
+excerpt: "My academic profile"
 author_profile: true
 redirect_from: 
   - /about/
