@@ -3,16 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  #- title: "Conference contributions"
+   # url: /talks/    
+      
   - title: "Conference contributions"
-    url: /talks/    
-
+    url: /conference/ 
+    
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Conference contributions"
-    url: /conference/ 
+
     
 
