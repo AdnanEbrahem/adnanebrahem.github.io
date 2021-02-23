@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Modellierung des elektromechanischen Reibkontaktes zwischen Finger undTouchscreen zur gezielten Erzeugung taktiler Effekte
+Modellierung des elektromechanischen Reibkontaktes zwischen Finger und Touchscreen zur gezielten Erzeugung taktiler Effekte
 ======
 * Heß M., **Ebrahem A.**, Popov V.L.: 60th German Tribology Conference, 2019. 
  
