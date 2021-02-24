@@ -12,11 +12,11 @@ Classes offered by the Institute of Mechanics and Computational Mechanics within
 
 Engineering Mechanics A
 ======
-* Winter semester 2019/2020 and 2020/21
+* Winter term 2019/2020 and 2020/21
 * For course description [see](https://www.ibnm.uni-hannover.de/en/studies/modules/engineering-mechanics-a/)
 
 Mechanics of Elastic Bodies
 ======
-* Summer semester 2020
+* Summer term 2020
 * For course description [see](https://www.ibnm.uni-hannover.de/en/studies/modules/mechanics-of-elastic-bodies/)
 
