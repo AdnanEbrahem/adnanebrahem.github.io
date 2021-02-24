@@ -12,11 +12,11 @@ Classes offered by the Institute of Mechanics within the Bachelor programs Mecha
 
 Statics and Strength of Materials
 ======
-* Summer semester 2017 (Lectures given by Prof. Dr.-Ing. M. Zehn)
-* Winter semester 2017/2018 (Lectures given by Prof. Dr. rer. nat. W. H. Müller)
+* Summer term 2017 (Lectures given by Prof. Dr.-Ing. M. Zehn)
+* Winter term 2017/2018 (Lectures given by Prof. Dr. rer. nat. W. H. Müller)
 
 Kinematics and Dynamics
 ======
-* Summer semester 2016 (Lectures given by Prof. Dr. rer. nat. W. H. Müller)
-* Summer semester 2018 (Lectures given by Prof. Dr. rer. nat. W. H. Müller)
-* Winter semester 2018/2019 (Lectures given by Prof. Dr.-Ing. U. von Wagner)
+* Summer term 2016 (Lectures given by Prof. Dr. rer. nat. W. H. Müller)
+* Summer term 2018 (Lectures given by Prof. Dr. rer. nat. W. H. Müller)
+* Winter term 2018/2019 (Lectures given by Prof. Dr.-Ing. U. von Wagner)
