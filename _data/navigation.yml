@@ -4,7 +4,10 @@ main:
    # url: /publications/
 
   #- title: "Conference contributions"
-   # url: /talks/    
+   # url: /talks/   
+   
+  - title: "Home"
+    url: /home/
    
   - title: "Publications"
     url: /publication/
