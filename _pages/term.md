@@ -19,7 +19,7 @@ Except for access logs containing the access time, the ip address and browser in
 This website is hosted on [GitHub](https://github.com/) with user contributions licensed by [MIT License](https://opensource.org/licenses/MIT) with attribution required.
 
 **Imprint** <br />
-(A note on some formalities required by German law) Diese Seite dient nur persönlichen und nicht-kommerziellen Zwecken und ist nach § 55 Informationspflichten und Informationsrechte des Staatsvertrages für Rundfunk und Telemedien von der Impressumspflicht ausgenommen. Die Inhalte stellen kein journalistisch-redaktionell gestaltetes Angebot dar und zielen weder einer öffentlichen Meinungsbildung noch einer Werbung ab.
+(A note on some formalities required by German law) Diese Seite dient nur persönlichen und nicht-kommerziellen Zwecken und ist nach § 55 Informationspflichten und Informationsrechte des [Staatsvertrages für Rundfunk und Telemedien](http://www.voris.niedersachsen.de/jportal/?quelle=jlink&query=RdFunkStVtr+ND+%C2%A7+55&psml=bsvorisprod.psml&max=true) von der Impressumspflicht ausgenommen. Die Inhalte stellen kein journalistisch-redaktionell gestaltetes Angebot dar und zielen weder einer öffentlichen Meinungsbildung noch einer Werbung ab.
 
 
 
